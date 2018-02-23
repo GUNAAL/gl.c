@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-if(printf("hai students");
+if(printf("hai gowtham");
 {
 }
 return 0;
