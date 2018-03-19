@@ -2,7 +2,7 @@
 
 void main()
 {
-int n,k,a[10],i;
+int n,k,a[20],i;
 printf("N&k value:");
 scanf("%d %d",&n,&k);
 printf("\n");
